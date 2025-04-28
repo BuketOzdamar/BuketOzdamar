@@ -1,6 +1,7 @@
 ## Hi there, I'm Buket 👋
 
 Merhaba! Ben Buket. Elektronik ve Haberleşme Mühendisliği mezunuyum. Veri bilimi, makine öğrenmesi ve derin öğrenme alanlarında çalışmalar yapıyorum. Özellikle veri analizi, görselleştirme ve model geliştirme konularında projeler üretiyorum.  
+
 Şu anda veri bilimi ve analitiği alanında kendimi daha da geliştiriyor, öğrendiklerimi gerçek dünya projelerine uyguluyorum.
 
 ---
