@@ -1,8 +1,10 @@
 ## Hi there, I'm Buket 👋
 
-Merhaba! Ben Buket. Elektronik ve Haberleşme Mühendisliği mezunuyum. Veri bilimi, makine öğrenmesi ve derin öğrenme alanlarında çalışmalar yapıyorum. Özellikle veri analizi, görselleştirme ve model geliştirme konularında projeler üretiyorum.  
+Hi there! I'm Buket. I graduated with a degree in Electronics and Communication Engineering.  
+I'm passionate about data science, machine learning, deep learning, and computer vision.  
+I work on projects focused on data analysis, visualization, model development, and image processing.
 
-Şu anda veri bilimi ve analitiği alanında kendimi daha da geliştiriyor, öğrendiklerimi gerçek dünya projelerine uyguluyorum.
+Currently, I am expanding my skills in data science and analytics by applying what I learn to real-world projects.
 
 ---
 
@@ -30,6 +32,12 @@ Merhaba! Ben Buket. Elektronik ve Haberleşme Mühendisliği mezunuyum. Veri bil
 ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### 🚧 Currently Learning
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+> 🌱 I'm currently learning Docker, Kubernetes and AWS to enhance my DevOps and cloud deployment skills.
 
 
 
