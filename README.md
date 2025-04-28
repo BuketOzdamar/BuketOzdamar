@@ -6,6 +6,15 @@ Merhaba! Ben Buket. Elektronik ve Haberleşme Mühendisliği mezunuyum. Veri bil
 
 ---
 
+## 🛠️ Tools and Technologies
+
+- **Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+- **Deployment:** Docker, Flask
+- **Cloud Platforms:** AWS (beginner)
+
+
 <!--
 **BuketOzdamar/BuketOzdamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
