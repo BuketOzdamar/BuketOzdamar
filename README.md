@@ -1,4 +1,6 @@
 ## Hi there 👋
+Ben Buket. Elektronik ve Haberleşme Mühendisliği mezunuyum. Veri bilimi, makine öğrenmesi ve derin öğrenme alanlarında çalışmalar yapıyorum. Özellikle veri analizi, görselleştirme ve model geliştirme konularında projeler üretiyorum.
+Şu anda veri bilimi ve analitiği alanında kendimi daha da geliştiriyor, öğrendiklerimi gerçek dünya projelerine uyguluyorum.
 
 <!--
 **BuketOzdamar/BuketOzdamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
